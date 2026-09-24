@@ -1,14 +1,3 @@
-# Cyber Security Dashboard
-
-**Real-time Threat Intelligence Visualization.**
-
-A professional security monitoring hub designed for real-time threat detection and data analytics. This project focuses on translating complex security logs into intuitive, actionable visual intelligence.
-
-### 🚀 Key Highlights
-- Real-time Threat Monitoring
-- Advanced Data Analytics Dashboard
-- Intuitive Security Intelligence UI
-
 <!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
 <!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
@@ -22,7 +11,7 @@ A professional security monitoring hub designed for real-time threat detection a
   <a href="https://github.com/antono4/cyber-shield-antivirus"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/cyber-shield-antivirus-blue?logo=github"></a>
   <a href="https://antono4.github.io/cyber-shield-antivirus/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
   <img alt="Files" src="https://img.shields.io/badge/Files-6-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-24 07:52:24 WIB-lightgrey">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-24 11:14:57 WIB-lightgrey">
 </p>
 
 ---
@@ -72,4 +61,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-09-24 07:52:24 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
+<sub>README ini di-generate otomatis pada **2026-09-24 11:14:57 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
