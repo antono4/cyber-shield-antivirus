@@ -1,3 +1,14 @@
+# Cyber Security Dashboard
+
+**Real-time Threat Intelligence Visualization.**
+
+A professional security monitoring hub designed for real-time threat detection and data analytics. This project focuses on translating complex security logs into intuitive, actionable visual intelligence.
+
+### 🚀 Key Highlights
+- Real-time Threat Monitoring
+- Advanced Data Analytics Dashboard
+- Intuitive Security Intelligence UI
+
 <!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
 <!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
